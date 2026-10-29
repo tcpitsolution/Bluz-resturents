@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add the verified production sitemap URL before launch.
